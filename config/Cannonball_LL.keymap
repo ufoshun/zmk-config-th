@@ -54,7 +54,7 @@
                 &to DEFAULT_WIN &kp F11 &to DEFAULT_MAC
                 &to DEFAULT_WIN &kp F12 &to DEFAULT_MAC
                 // Side
-                &kp MB5 & mkp MB4 &kp F3 &kp F4
+                &mkp MB5 & mkp MB4 &kp F3 &kp F4
                 // Back
                 &bt BT_SEL 0 &bt BT_SEL 1
     	    >;
