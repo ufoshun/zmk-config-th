@@ -8,6 +8,7 @@
 #define DEFAULT_MAC 1
 #define SCROLL 2
 
+
 / {
     /* Behaviors */
     // スクロール設定
